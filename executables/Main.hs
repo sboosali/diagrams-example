@@ -1,5 +1,4 @@
 {-# OPTIONS_GHC -fno-warn-missing-signatures #-}
-import qualified Example.Example
+import qualified Diagrams.Example
 
-main = Example.Example.main
-
+main = Diagrams.Example.main

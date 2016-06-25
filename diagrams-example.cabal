@@ -52,11 +52,9 @@ library
                      ScopedTypeVariables StandaloneDeriving
 
  exposed-modules:
-                 Example
-                 Example.Types
--- other-modules:
-                 Example.Extra
-                 Example.Example
+                 Diagrams.Example
+                 Diagrams.Example.Canvas
+                 Diagrams.Example.SVG
 
  build-depends:
                base >=4.7 && <5
